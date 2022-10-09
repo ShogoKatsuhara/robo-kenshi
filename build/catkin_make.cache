@@ -1,0 +1,2 @@
+realsense-ros/realsense2_camera:realsense-ros/realsense2_description:ydlidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/katsuhara/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/katsuhara/catkin_ws/install -G Unix Makefiles
